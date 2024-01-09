@@ -75,30 +75,3 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="求索系列",求索生活
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
-#EXTINF:-1 ,彩虹E台
-mitv://generationnexxxt.com:19806/65965911000021e1a38ef6eb6d960419
-#EXTINF:-1 ,彩虹电影台
-mitv://generationnexxxt.com:19806/659659670009e1e0a390495b56fe0ef5
-#EXTINF:-1 ,LOOK TV
-mitv://generationnexxxt.com:19806/65965b99000447ada398db445ba341d9
-#EXTINF:-1 ,潘朵啦玩美台
-mitv://generationnexxxt.com:19806/b18b7d6f932a44b68dadb6bc37a5df28
-#EXTINF:-1 ,惊艳成人电影台
-mitv://generationnexxxt.com:19806/9f2fedfddd1c44159afc05fbc6d19111
-#EXTINF:-1 ,松视1台
-mitv://generationnexxxt.com:19806/65965a69000205b2a39437282edd171f
-#EXTINF:-1 ,松视2台
-mitv://generationnexxxt.com:19806/65965a69000aa6b2a394396a278d2960
-#EXTINF:-1 ,松视3台
-mitv://generationnexxxt.com:19806/65965a6a000397c7a3943b7d68302409
-#EXTINF:-1 ,PLAYBOY
-mitv://generationnexxxt.com:19806/a1bdd4044b1241498c615ee02ab4e868
-#EXTINF:-1 ,香蕉台
-mitv://generationnexxxt.com:19806/c56271abc82643f7b8a2a5184f56b80d
-#EXTINF:-1 ,JStar极限台
-mitv://generationnexxxt.com:19806/65965afc0003ca30a39675dd41a40275
-#EXTINF:-1 ,HAPPY
-mitv://generationnexxxt.com:19806/659660790009efada3abe7bb6374465e
-#EXTINF:-1 ,彩虹K台
-mitv://generationnexxxt.com:19806/659660d600094f04a3ad52d46ed26cbc
-
