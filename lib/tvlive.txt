@@ -166,3 +166,20 @@ Bestv赛事2,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001359/in
 Bestv赛事3,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001388/index.m3u8
 Bestv赛事4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001149/index.m3u8
 Bestv赛事5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u8
+
+
+
+港台测试,#genre#
+
+台湾 东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+台湾 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+台湾 中天亚洲台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
+台湾 TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+台湾 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+台湾 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+台湾 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+台湾 中视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+台湾 民视新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+台湾 台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+台湾 台视CTS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+Fashion TV时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
