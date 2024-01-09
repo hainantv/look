@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "泰国海南",
+      "name": "豆豆推荐",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -671,7 +671,7 @@
       "url": "Demo"
     },
     {
-      "name": "神秘的哥哥们",
+      "name": "泰国易达旅游",
       "type": 1,
       "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
       "ext": {
