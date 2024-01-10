@@ -190,7 +190,7 @@ Fashion TV时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 耀才財經台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 大立频道,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-影剧,video://https://www.4gtv.tv/channel/litv-ftv09?set=4&ch=24
+影剧,video://https://www.youtube.com/watch?v=C8LYFb0SXgk
 
 
 
