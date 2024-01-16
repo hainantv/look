@@ -209,6 +209,7 @@ Fashion TV时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 耀才財經台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 大立频道,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+财经体育资讯台,https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1705407986~exp=1705494386~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/*~hmac=f99f86c49ae5030657919921faa6db87e35b5aa5c1f38ae4aa13f49cda249e8d&p=4092&mode=admarker,ticks
 
 
 
