@@ -24,39 +24,6 @@ CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw274
 凤凰中文,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
 凤凰资讯,http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-CCTV-1咪咕,http://hms224nc24098028086011100000000000000028.live.aikan.miguvideo.com/wh7f454c46tw2869564862_872275482/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=122.114.118.211&timestamp=20240116125708&encrypt=48ecb9023450255bcd1ecc4a30ed223a&ContentId=265183188&timezone=UTC&mtv_session=d9f66b22e7474a3d97680ca3d3efb671&icpid=88888888&RTS=1705409828&from=2&hms_devid=224&online=1705409828
-CCTV-2咪咕,http://hms104nc2409802808601110000000000000001d.live.aikan.miguvideo.com/wh7f454c46tw2927658057_1024476013/wd_r2/cctv/cctv2hd/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=122.114.118.211&timestamp=20240116125806&encrypt=d94c5e071b4c30529c3f53217b849267&ContentId=265667329&timezone=UTC&mtv_session=a80093a745e93df720c797c7353dc0d6&icpid=88888888&RTS=1705409886&from=2&hms_devid=104&online=1705409886
-CCTV-3咪咕,http://hms464nc24098028086011100000000000000040.live.aikan.miguvideo.com/wh7f454c46tw3084139306_-773351767/wd_r2/ocn/cctv3hd/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=122.114.118.211&timestamp=20240116130043&encrypt=5ceb5f9464b628282cc70a102f73fccc&ContentId=265667206&timezone=UTC&mtv_session=d505ac1ffe731e95071eb083f31f537c&icpid=88888888&RTS=1705410043&from=2&hms_devid=464&online=1705410043
-CCTV4国际咪咕,http://hms264nc2409802808601110000000000000002d.live.aikan.miguvideo.com/wh7f454c46tw3170985125_-2023871647/wd_r2/cctv/cctv4hd/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=122.114.118.211&timestamp=20240116130210&encrypt=c7310261403e881328696d4bbf33f2d9&ContentId=265667639&timezone=UTC&mtv_session=af828a0b92eed3a722fa3af21a7011d7&icpid=88888888&RTS=1705410130&from=2&hms_devid=264&online=1705410130
-CCTV4欧洲咪咕,http://hms324nc24098028086011100000000000000033.live.aikan.miguvideo.com/wh7f454c46tw3391880481_-1752223321/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=122.114.118.211&timestamp=20240116130551&encrypt=8fa38264fcb38bcdf54f32616fc0536c&ContentId=265667313&timezone=UTC&mtv_session=f178f5d4debdc52569433398dbabba0c&icpid=88888888&RTS=1705410351&from=2&hms_devid=324&online=1705410351
-cctv4美洲咪咕,http://hms324nc24098028086011100000000000000033.live.aikan.miguvideo.com/wh7f454c46tw3610038313_2051201399/migu/kailu/20200324/cctv4meihd/57/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=122.114.118.211&timestamp=20240116130929&encrypt=b9ea256cf08e85dc54395a5b2d703688&ContentId=265667335&timezone=UTC&mtv_session=254760fa26c72275ed7ec5eac7ece625&icpid=88888888&RTS=1705410569&from=2&hms_devid=324&online=1705410569
-cctv5咪咕,http://hms324nc24098028086011100000000000000032.live.aikan.miguvideo.com/wh7f454c46tw3701380856_755302665/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=122.114.118.211&timestamp=20240116131100&encrypt=0f9669e9bfc4b13fdaac31b749058647&ContentId=265667565&timezone=UTC&mtv_session=d70a80776010500af86ebac9062661ae&icpid=88888888&RTS=1705410660&from=2&hms_devid=324&online=1705410660
-cctv5+咪咕,http://hms84nc2409802808601110000000000000001a.live.aikan.miguvideo.com/wh7f454c46tw3753522681_-1272019214/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=122.114.118.211&timestamp=20240116131152&encrypt=dcf4b0ac7206876cd97a98407ed10409&ContentId=265667565&timezone=UTC&mtv_session=d7575a8cff8e395e21251134275540d0&icpid=88888888&RTS=1705410712&from=2&hms_devid=84&online=1705410712
-cctv5+咪咕,http://hms4nc24098028086011100000000000000013.live.aikan.miguvideo.com/wh7f454c46tw3844706134_1463750629/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=122.114.118.211&timestamp=20240116131323&encrypt=f3e0e6fceae4306353fb51b48177066f&ContentId=265106763&timezone=UTC&mtv_session=a2364783081cbbb4c0ef4617ce161b91&icpid=88888888&RTS=1705410803&from=2&hms_devid=4&online=1705410803
-cctv6咪咕,http://hms24nc24098028086011100000000000000014.live.aikan.miguvideo.com/wh7f454c46tw3994136643_-834842683/wd_r2/ocn/cctv6hd/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=122.114.118.211&timestamp=20240116131553&encrypt=af0ca5ac8bfa4d66e2f21cb1f09b438b&ContentId=265667482&timezone=UTC&mtv_session=5a1711fd8846eccaca06de0ebdaf80cc&icpid=88888888&RTS=1705410953&from=2&hms_devid=24&online=1705410953
-cctv7咪咕,http://hms284nc2409802808601110000000000000002e.live.aikan.miguvideo.com/wh7f454c46tw63942518_281583713/migu/kailu/20200324/cctv7hd/57/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=122.114.118.211&timestamp=20240116132158&encrypt=3408b055868f32d563f18aa2f4974c97&ContentId=265667268&timezone=UTC&mtv_session=9b47825e56f04b8eeb247b6839325df7&icpid=88888888&RTS=1705411318&from=2&hms_devid=284&online=1705411318
-cctv8咪咕,http://hms44nc24098028086011100000000000000016.live.aikan.miguvideo.com/wh7f454c46tw262662907_833265003/wd_r2/ocn/cctv8hd/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=122.114.118.211&timestamp=20240116132516&encrypt=17591f2c1c3fd5204e839771f4e4f7c5&ContentId=265667466&timezone=UTC&mtv_session=4fb03f0e640ae8b223b944af32a7be3b&icpid=88888888&RTS=1705411516&from=2&hms_devid=44&online=1705411516
-cctv9咪咕,http://hms444nc2409802808601110000000000000003f.live.aikan.miguvideo.com/wh7f454c46tw327740407_1694655280/migu/kailu/20200324/cctv9hd/57/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=122.114.118.211&timestamp=20240116132621&encrypt=4f0d07e474f5df33bb36637053e95aef&ContentId=265667202&timezone=UTC&mtv_session=6fbb9405a18b1025d072406a8c268c3a&icpid=88888888&RTS=1705411581&from=2&hms_devid=444&online=1705411581
-cctv10咪咕,http://hms44nc24098028086011100000000000000016.live.aikan.miguvideo.com/wh7f454c46tw384718299_-1565806889/wd_r2/ocn/cctv10hd/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=122.114.118.211&timestamp=20240116132718&encrypt=d20f4a9e416b819895a5459d4ae26a1d&ContentId=265667631&timezone=UTC&mtv_session=e609aff65041e9817ff97b363ab7200c&icpid=88888888&RTS=1705411638&from=2&hms_devid=44&online=1705411638
-cctv11咪咕,http://hms224nc24098028086011100000000000000028.live.aikan.miguvideo.com/wh7f454c46tw439069355_-853230879/migu/kailu/cctv11hd/57/20200103/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=122.114.118.211&timestamp=20240116132813&encrypt=ae4692af9d0a491103b1ad4b6c361006&ContentId=265667429&timezone=UTC&mtv_session=fa28939954610b90cfd2f2c8bfa8b99b&icpid=88888888&RTS=1705411693&from=2&hms_devid=224&online=1705411693
-cctv12咪咕,http://hms204nc24098028086011100000000000000026.live.aikan.miguvideo.com/wh7f454c46tw482689177_1571753817/migu/kailu/20200324/cctv12hd/57/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=122.114.118.211&timestamp=20240116132856&encrypt=8532ae76a311750f171be8c02df46f50&ContentId=265667607&timezone=UTC&mtv_session=c0e84506b62dcedcb025c22a827d7ecb&icpid=88888888&RTS=1705411736&from=2&hms_devid=204&online=1705411736
-cctv13咪咕,http://hms84nc2409802808601110000000000000001a.live.aikan.miguvideo.com/wh7f454c46tw535916709_-389242276/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=122.114.118.211&timestamp=20240116132950&encrypt=7845ea38d3de0ea3941a392d40f68804&ContentId=265667474&timezone=UTC&mtv_session=a4042f777bd95f4aff6f84314b81334c&icpid=88888888&RTS=1705411790&from=2&hms_devid=84&online=1705411790
-cctv14咪咕,http://hms344nc24098028086011100000000000000035.live.aikan.miguvideo.com/wh7f454c46tw604790854_-541158188/wd_r2/ocn/cctv14hd/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=122.114.118.211&timestamp=20240116133058&encrypt=acb3ef851e9d8afe1dd839a10156df12&ContentId=265667325&timezone=UTC&mtv_session=2f75a267444c718d1186893635140be3&icpid=88888888&RTS=1705411858&from=2&hms_devid=344&online=1705411858
-cctv15咪咕,http://hms364nc24098028086011100000000000000037.live.aikan.miguvideo.com/wh7f454c46tw643817205_209230207/migu/kailu/20200324/cctv15hd/57/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=122.114.118.211&timestamp=20240116133137&encrypt=d9779f24e128e229912d975cc4078a85&ContentId=265667535&timezone=UTC&mtv_session=cf5d5d1fd8b492349230fdafd8b0133e&icpid=88888888&RTS=1705411897&from=2&hms_devid=364&online=1705411897
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -242,7 +209,7 @@ Fashion TV时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 耀才財經台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 大立频道,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-财经体育资讯台,https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1705407986~exp=1705494386~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/*~hmac=f99f86c49ae5030657919921faa6db87e35b5aa5c1f38ae4aa13f49cda249e8d&p=4092&mode=admarker,ticks
+星空卫视,http://r.jdshipin.com/ihkmX?id=xkws
 
 
 
