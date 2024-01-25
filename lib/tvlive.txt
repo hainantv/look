@@ -341,4 +341,5 @@ WION,https://www.youtube.com/watch?v=lmZRiDMK3OU
 ABP Majha,https://www.youtube.com/watch?v=oIOnCCljFdw
 IndiaTV,https://www.youtube.com/watch?v=Xmm3Kr5P1Uw
 TV9 Marathi,https://www.youtube.com/watch?v=04y0H01GTg0
-DJ MUSIC https://www.youtube.com/watch?v=fcbkrE-opbY
+DJ MUSIC,https://www.youtube.com/watch?v=fcbkrE-opbY
+DJ MUSIC,https://www.youtube.com/watch?v=WKuaujIHBT4
