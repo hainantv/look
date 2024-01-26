@@ -365,3 +365,14 @@ Tomorrowland 2023,https://www.youtube.com/watch?v=sjrcO6FWzdE
 MARTIN 2022,https://www.youtube.com/watch?v=7xpja4fejbk
 MARTIN 2013,https://www.youtube.com/watch?v=raOVXUB13vw
 MARTIN 2017,https://www.youtube.com/watch?v=g_s17HMFaug
+
+
+
+明星专辑,#genre#
+
+张学友专辑1,https://www.youtube.com/watch?v=wqV6l_6SyF0
+张学友专辑2,https://www.youtube.com/watch?v=-avAw7V5KRM
+邓紫棋专辑1,https://www.youtube.com/watch?v=RWC4EgG5rII
+BEYOND专辑,https://www.youtube.com/watch?v=tbPYyZ6hna4
+刘德华专辑,https://www.youtube.com/watch?v=nzmh-YFoVSY
+一人成名曲,https://www.youtube.com/watch?v=kSNa8oqIYO4
