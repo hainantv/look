@@ -141,23 +141,23 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 海口1,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000133/index.m3u8?IAS
 海口2,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000134/index.m3u8?IAS
 海口3,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000135/index.m3u8?IAS
-琼海,http://http://iptv.nastool.site:56789/udp/HItele.php/239.253.64.106:5140
-文昌,http://http://iptv.nastool.site:56789/udp/HItele.php/239.253.64.105:5140
-白沙,http://http://iptv.nastool.site:56789/udp/HItele.php/239.253.64.118:5140
-保亭,http://http://iptv.nastool.site:56789/udp/HItele.php/239.253.64.159:5140
-昌江,http://http://iptv.nastool.site:56789/udp/HItele.php/239.253.64.108:5140
-澄迈,http://http://iptv.nastool.site:56789/udp/HItele.php/239.253.64.109:5140
-儋州,http://http://iptv.nastool.site:56789/udp/HItele.php/239.253.64.107:5140
-定安,http://http://iptv.nastool.site:56789/udp/HItele.php/239.253.64.110:5140
-东方,http://http://iptv.nastool.site:56789/udp/HItele.php/239.253.64.111:5140
-乐东,http://http://iptv.nastool.site:56789/udp/HItele.php/239.253.64.166:5140
-临高,http://http://iptv.nastool.site:56789/udp/HItele.php/239.253.64.155:5140
-陵水,http://http://iptv.nastool.site:56789/udp/HItele.php/239.253.64.116:5140
-琼中,http://http://iptv.nastool.site:56789/udp/HItele.php/239.253.64.165:5140
-屯昌,http://http://iptv.nastool.site:56789/udp/HItele.php/239.253.64.117:5140
-万宁,http://http://iptv.nastool.site:56789/udp/HItele.php/239.253.64.167:5140
-三亚1,http://http://iptv.nastool.site:56789/udp/HItele.php/239.253.64.152:5140
-三亚1,http://http://iptv.nastool.site:56789/udp/HItele.php/239.253.64.156:5140
+三亚1台 576,http://iptv.nastool.site:56789/udp/HItele.php?id=sy1t5
+儋州综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=dzzh5
+东方综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=dfzh5
+万宁综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=wnzh5
+临高综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=lgzh5
+乐东综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=ldzh5
+五指山综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=wzszh5
+保亭综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=btzh5
+陵水综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=lszh5
+昌江综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=cjzh5
+文昌综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=wczh5
+屯昌综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=tczh5
+定安综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=dazh5
+琼中综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=qzzh5
+琼海综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=qhzh5
+白沙综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=bszh5
+澄迈综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=cmzh5
 
 
 
