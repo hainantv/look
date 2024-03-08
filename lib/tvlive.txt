@@ -192,66 +192,9 @@ Bestv赛事5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/in
 
 
 
-港台测试,#genre#
+短剧视频,#genre#
 
-凤凰中文,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
-凤凰资讯,http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
-凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
-台视HD,https://epg.pw/stream/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dcf656bc.m3u8
-民视,https://epg.pw/stream/720e88c5916645734a5ed560a15e475c11c32dd6659b37aceb035720ee6f40ea.m3u8
-中视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
-中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-民视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-三立新闻,http://125.227.210.55:35238/VideoInput/play.ts
-三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-TVBS歡樂台,http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
-东森财经,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
-东森财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-年代新闻,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-环宇国际新闻,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
-三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-华视综艺,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-华视综艺,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
-华视戏剧,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-华视戏剧,https://ytm2.yuanhsing.cf/ctsprog.m3u8
-大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-八大电视,https://ytm2.yuanhsing.cf/GTVDRAMA.m3u8
-八大戲劇,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
-大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-eedge17/live_122_3.stream/chunklist.m3u8
-镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-环宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-民视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-MOMO1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-MOMO2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-Fashion TV时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-澳视澳门,http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-耀才財經台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-大立频道,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-星空卫视,http://r.jdshipin.com/ihkmX?id=xkws
-天才冲冲冲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-EYETV戲劇,http://198.16.100.90:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
-TVB翡翠台,https://epg.pw/stream/2462b75c7b128030bbe44787e563be7cfa88943d82316910afb7596f6ace940e.ctv
-TVB星河,https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.ctv
-千禧经典台,https://epg.pw/stream/5e171d08cda3bcf5826fc7f54f6bd91d116fdf7a88fe8f616798935b898e9a8e.ctv
-天映頻道,https://epg.pw/stream/07bf8421823f923b439159d1bcc8b3938991ceea0e1ded3f3718c1f79dc41db1.ctv
-愛奇藝,https://epg.pw/stream/b35147aeb6c0bfa56d15df08afbb66dbff4afb9d192ebbaecb1bd63060552d9d.ctv
-ASTRO AOD,https://epg.pw/stream/e1e0214dac22fe8d5688d5564c9fc5ba75a099e50474b2e990b40b983e21bec8.ctv
-ASTRO AEC,https://epg.pw/stream/01654d2a4f03a9893496ed74fe405b54b80fb1e1d0b8527fba041439f82bfe3d.ctv
-东森电影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
-东森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
-Astro Supersports 1,https://epg.pw/stream/9719d3c4847fb100e88b3e4f06136eca4eb6826a9a9e804d2fa7730885310318.ctv
-Astro Supersports 2,https://epg.pw/stream/506485b38cb25b6035984d64fd0028e600f3a42fffcd2470162b0d917402d136.ctv
-Astro Supersports 3,https://epg.pw/stream/b3e985caf5df10dfd3fbb6df4c1e637283238f1e3bd52255f06848664ef2e71f.ctv
-Astro Supersports 4,https://epg.pw/stream/74beacbbad97a5db5d4cd17da92f878e26afb0932961ac2fcd4d1d4540c1e32f.ctv
+总裁爹地，我的妈咪在这里,https://www.youtube.com/watch?v=fPlaOaKfPjo
 
 
 
