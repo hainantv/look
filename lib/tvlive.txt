@@ -194,7 +194,7 @@ Bestv赛事5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/in
 
 测试油管,#genre#
 
-Gangnam Style,https://www.youtube.com/watch?v=CVxMTl6cUSE
+Gangnam Style,https://www.youtube.com/watch?v=cGc_NfiTxng
 
 
 
