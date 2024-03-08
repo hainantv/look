@@ -194,7 +194,7 @@ Bestv赛事5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/in
 
 测试油管,#genre#
 
-Gangnam Style,https://www.youtube.com/watch?v=cGc_NfiTxng
+2023流行歌曲,https://www.youtube.com/watch?v=1AA5BsLjVHY
 
 
 高速油管,#genre#
