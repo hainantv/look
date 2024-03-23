@@ -192,6 +192,7 @@ Bestv赛事5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/in
 
 高速油管,#genre#
 
+凤凰资讯,https://www.youtube.com/watch?v=HFib76ySpbU
 中天新聞2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
