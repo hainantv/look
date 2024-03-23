@@ -355,20 +355,3 @@ Deep House,https://www.youtube.com/watch?v=qhsrWzQZGAI
 大地,https://www.youtube.com/watch?v=FbQnDaT_Ehs
 谁伴我闯荡,https://www.youtube.com/watch?v=TY2Tg9U8ZTY
 莫叫姐姐,https://www.youtube.com/watch?v=D2TWnE80Tuk
-
-直播,#genre#
-
-翡翠台,tvbus://4d3SqDabh2a6UV4qgbN4tRUZmSYF7rXws7b9LY1gpy39dDU2nK
-无线新闻台,tvbus://3evy6CsmpNykm7tDRnZJhVhUHToPpEGnGyREkE2Yu8X3EPgnPx
-Now 新闻台,tvbus://4VDtZGrPTbAiPGNG5hjua2hM925H5nWvDwyP6w7SiB3Y7WqDiX
-CN卡通,tvbus://3awwyYtNCtisF8RuuGv7A8vwTGg5uVWQGRnHYt68unfNhHQb44
-CBeebies,tvbus://4BeNXMvoM7E9KXfwCanwTuYPC6pu2j7PkGzwCDZXmpx8bQ7q7s
-Cartoonito,tvbus://4DrQ584nsRYws1c2TKKKubmGbLYrFHRkpi6QvoV6FDhscpNKd2
-Nickelodeon,tvbus://3C3K3d4pNQtA2nZnnC5sBQzuWDbJv9nvvktp1wSQ6xCvrHEjjP
-MOMO亲子台,tvbus://3VV3Zk3KWmeWJH5dE88FmZKeuBp8jzx6sENZSLCeThtubfoNfm
-东森幼幼台,tvbus://4Luy2FdfRBuCdPZxkCJYiQRgrkHsk1WNiGUKujHnDt7qWH2CMG
-Now 爆谷台,tvbus://3QMHnqkCFFUp33Jts963s3Bptx5SPcyveBfo2pQQyy7uYgN2yh
-Now 星影台,tvbus://2wvykSrcG6BjDZzz53br9cvvgeX4eSrc1mA2Mays8rrMtotKuw
-纬来电影台,tvbus://43HRfpwoSWhpLQmA6MWVaZ1xr4hnKxzaPbSa4oiM95k5Y1Lpkj
-东森电影台,tvbus://348orevWcpLkbQKQrQxJRQzVFZ7CrFfXtaxKC8FVoi9npVE6Tj
-星卫HD电影,tvbus://34zdvA13ZUfU6nWZ3TZXoz9AxorzkDGPoAEqtWgyiXKsJRK7oD
