@@ -310,13 +310,9 @@ MARTIN 2017,https://www.youtube.com/watch?v=g_s17HMFaug
 
 明星专辑,#genre#
 
-张学友专辑1,https://www.youtube.com/watch?v=wqV6l_6SyF0
-张学友专辑2,https://www.youtube.com/watch?v=-avAw7V5KRM
-邓紫棋专辑1,https://www.youtube.com/watch?v=RWC4EgG5rII
-BEYOND专辑,https://www.youtube.com/watch?v=tbPYyZ6hna4
-刘德华专辑,https://www.youtube.com/watch?v=nzmh-YFoVSY
-一人成名曲,https://www.youtube.com/watch?v=kSNa8oqIYO4
-2023流行歌曲,https://www.youtube.com/watch?v=1AA5BsLjVHY
+抖音神曲2023,https://www.youtube.com/watch?v=HDllEQOkRg0
+2023流行歌曲1,https://www.youtube.com/watch?v=7FRXSvdgnj4
+2023流行歌曲2,https://www.youtube.com/watch?v=1AA5BsLjVHY
 爱财爱己,https://www.youtube.com/watch?v=fa62H2YjLDo
 偷心,https://www.youtube.com/watch?v=QkS00MCScDs
 灰色轨迹,https://www.youtube.com/watch?v=LDkqFftOXLQ
