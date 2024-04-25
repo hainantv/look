@@ -313,6 +313,7 @@ Youtube音乐,#genre#
 抖音神曲2023,https://www.youtube.com/watch?v=HDllEQOkRg0
 2023流行歌曲1,https://www.youtube.com/watch?v=7FRXSvdgnj4
 2023流行歌曲2,https://www.youtube.com/watch?v=1AA5BsLjVHY
+2024 1月抖音新歌,https://www.youtube.com/watch?v=WuI0vNbRjNE
 爱财爱己,https://www.youtube.com/watch?v=fa62H2YjLDo
 偷心,https://www.youtube.com/watch?v=QkS00MCScDs
 灰色轨迹,https://www.youtube.com/watch?v=LDkqFftOXLQ
