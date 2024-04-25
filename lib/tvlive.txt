@@ -311,6 +311,7 @@ Youtube音乐,#genre#
 黄家驹 灰色轨迹,https://www.youtube.com/watch?v=LDkqFftOXLQ
 邓紫棋 真的爱你,https://www.youtube.com/watch?v=4OqXWzekVw4
 邓紫棋 再見 GOODBYE,https://www.youtube.com/watch?v=Lhel0tzHE08
+张学友 忘记你我做不到,https://www.youtube.com/watch?v=ATP9JuDoOyQ
 Linkin Park1,https://www.youtube.com/watch?v=eVTXPUF4Oz4
 Linkin Park2,https://www.youtube.com/watch?v=kXYiU_JCYtU
 孤勇者,https://www.youtube.com/watch?v=Hlp8XD0R5qo
