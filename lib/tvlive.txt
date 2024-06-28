@@ -11,6 +11,8 @@
 海口1,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000133/index.m3u8?IAS
 海口2,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000134/index.m3u8?IAS
 海口3,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000135/index.m3u8?IAS
+琼海综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=qhzh5
+文昌综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=wczh5
 三亚1台 576,http://iptv.nastool.site:56789/udp/HItele.php?id=sy1t5
 儋州综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=dzzh5
 东方综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=dfzh5
@@ -21,11 +23,9 @@
 保亭综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=btzh5
 陵水综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=lszh5
 昌江综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=cjzh5
-文昌综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=wczh5
 屯昌综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=tczh5
 定安综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=dazh5
 琼中综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=qzzh5
-琼海综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=qhzh5
 白沙综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=bszh5
 澄迈综合 576,http://iptv.nastool.site:56789/udp/HItele.php?id=cmzh5
 
