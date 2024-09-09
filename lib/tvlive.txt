@@ -123,12 +123,3 @@ Youtube拉琴,#genre#
 石川綾子,https://www.youtube.com/watch?v=vvb4UHtX2GA
 Pachelbel's Canon,https://www.youtube.com/watch?v=Ptk_1Dc2iPY
 River Flows In You,https://www.youtube.com/watch?v=WSSIIC58Fsc
-
-测试,#genre#
-
-松视3台,http://18.svi-studio.com:8880/live/506393836590/342033834695/20205.m3u8
-松视1台,http://18.svi-studio.com:8880/live/433629780792/303168490708/5.m3u8
-松视2台,http://18.svi-studio.com:8880/live/506393836590/342033834695/6.m3u8
-松视1台,http://18.svi-studio.com:8880/live/624372101145/418430465490/5.m3u8
-松视2台,http://18.svi-studio.com:8880/live/624372101145/418430465490/6.m3u8
-松视3台,http://18.svi-studio.com:8880/live/624372101145/418430465490/20205.m3u8
