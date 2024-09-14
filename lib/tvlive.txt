@@ -11,7 +11,7 @@
 红牛Redbull,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-
+台湾综艺,http://37.27.111.214:8080/live/67/hls.m3u8
 
 
 
