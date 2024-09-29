@@ -257,15 +257,6 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 
 
-Youtube音乐,#genre#
-
-华语歌曲01,https://www.youtube.com/watch?v=daY6Dl8n-GI
-华语歌曲02,https://www.youtube.com/watch?v=45TeRVcLJBs
-华语歌曲03,https://www.youtube.com/watch?v=ZqYv1moJlMc
-华语歌曲04,https://www.youtube.com/watch?v=4LrVAFP1cSM
-华语歌曲05,https://www.youtube.com/watch?v=rQj5maIZUKE
-
-
 韩国女团,#genre#
 
 韩国DJ电音,https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
