@@ -66,7 +66,9 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 吉林卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 深圳卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
-龙华戏剧,https://gat.zhoujie218.top/litv/litv-longturn18#http://tw.ts138.top/4g/?id=litv-longturn18#https://litv.zapi.us.kg/?id=litv-longturn18
+龙华戏剧,https://gat.zhoujie218.top/litv/litv-longturn18
+龙华戏剧1,http://tw.ts138.top/4g/?id=litv-longturn18
+龙华戏剧2,https://litv.zapi.us.kg/?id=litv-longturn18
 
 
 
