@@ -259,94 +259,12 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 Youtube音乐,#genre#
 
-抖音神曲2023,https://www.youtube.com/watch?v=HDllEQOkRg0
-2023流行歌曲1,https://www.youtube.com/watch?v=7FRXSvdgnj4
-2023流行歌曲2,https://www.youtube.com/watch?v=1AA5BsLjVHY
-2024 1月抖音新歌,https://www.youtube.com/watch?v=WuI0vNbRjNE
-爱财爱己,https://www.youtube.com/watch?v=fa62H2YjLDo
-张学友 偷心,https://www.youtube.com/watch?v=nubW4Cebw3A
-黄家驹 灰色轨迹,https://www.youtube.com/watch?v=LDkqFftOXLQ
-邓紫棋 真的爱你,https://www.youtube.com/watch?v=4OqXWzekVw4
-邓紫棋 再見 GOODBYE,https://www.youtube.com/watch?v=Lhel0tzHE08
-张学友 忘记你我做不到,https://www.youtube.com/watch?v=ATP9JuDoOyQ
-Linkin Park1,https://www.youtube.com/watch?v=eVTXPUF4Oz4
-Linkin Park2,https://www.youtube.com/watch?v=kXYiU_JCYtU
-孤勇者,https://www.youtube.com/watch?v=Hlp8XD0R5qo
-我们不一样,https://www.youtube.com/watch?v=Fp-8YM36CVA
-陈百强 偏偏喜欢你,https://www.youtube.com/watch?v=Gz_BNBgyK78
-我的好兄弟,https://www.youtube.com/watch?v=39G3VIH8gMM
-神话,https://www.youtube.com/watch?v=ypPrhebv3ho
-泰坦尼克号,https://www.youtube.com/watch?v=1pihHJ5ztts
-Backstreet Boys,https://www.youtube.com/watch?v=0Gl2QnHNpkA
-涼涼_楊宗緯&張碧晨,https://www.youtube.com/watch?v=tgpjeXIX_pc
-Shape of You，https://www.youtube.com/watch?v=JGwWNGJdvx8
-陈百强 一生何求,https://www.youtube.com/watch?v=1I-sq9oA9PI
-茄子蛋 浪子回头,https://www.youtube.com/watch?v=XgSYzaR-tzU
-S.H.E.中国话,https://www.youtube.com/watch?v=jGauF0PuDFE
-黄明志，海南话,https://www.youtube.com/watch?v=7u8TJ6QaAmI
-丁噹 手掌心,https://www.youtube.com/watch?v=7wvNwOPprBE
-周興哲 你，好不好？,https://www.youtube.com/watch?v=wSBXfzgqHtE
-說散就散,https://www.youtube.com/watch?v=zOEISgh7k_g
-于文文 体面,https://www.youtube.com/watch?v=-kfVp3tqYvc
-我的歌声里,https://www.youtube.com/watch?v=w0dMz8RBG7g
-It's not goodbye,https://www.youtube.com/watch?v=jmd27c4Rma8
-珍珠港 歌曲,https://www.youtube.com/watch?v=ytT_z8vhg3I
-D2B,https://www.youtube.com/watch?v=YXZZSvUtbXs
-jame,https://www.youtube.com/watch?v=SKlRUkLDtHw
-TON MAI DAI,https://www.youtube.com/watch?v=Z6PQtPL0I6A
-D2B 90年,https://www.youtube.com/watch?v=mpGNvzx9Uzg
-最火DJ,https://www.youtube.com/watch?v=T_pbUXk-fCg
-Pháo - 2 Phút Hơn,https://www.youtube.com/watch?v=_AL4IwHuHlY
-Remix 2023,https://www.youtube.com/watch?v=HuXByx-twWw
-Deep House,https://www.youtube.com/watch?v=qhsrWzQZGAI
-黄家驹 大地,https://www.youtube.com/watch?v=FbQnDaT_Ehs
-黄家驹 谁伴我闯荡,https://www.youtube.com/watch?v=TY2Tg9U8ZTY
-邓紫棋 句号,https://www.youtube.com/watch?v=7XlqcS6B7WA
-DJ,https://www.youtube.com/watch?v=kIIVxcRFwwU
-MUSIC,https://www.youtube.com/watch?v=RtBNiT4G0Bs
-Dance With DJ1,https://www.youtube.com/watch?v=o2h5KRVt4lQ
-Dance With DJ2,https://www.youtube.com/watch?v=q_F4eCA9v2M
-Tomorrowland 2023,https://www.youtube.com/watch?v=sjrcO6FWzdE
-MARTIN 2022,https://www.youtube.com/watch?v=7xpja4fejbk
-MARTIN 2013,https://www.youtube.com/watch?v=raOVXUB13vw
-MARTIN 2017,https://www.youtube.com/watch?v=g_s17HMFaug
+华语歌曲01,https://www.youtube.com/watch?v=daY6Dl8n-GI
+华语歌曲02,https://www.youtube.com/watch?v=45TeRVcLJBs
+华语歌曲03,https://www.youtube.com/watch?v=ZqYv1moJlMc
+华语歌曲04,https://www.youtube.com/watch?v=4LrVAFP1cSM
+华语歌曲05,https://www.youtube.com/watch?v=rQj5maIZUKE
 
-
-
-Youtube影剧,#genre#
-
-潜行完整版,https://www.youtube.com/watch?v=TSPY1lIbOoQ
-黑白潜行,https://www.youtube.com/watch?v=g8whbG6VHAk
-细杀(悬疑破案),https://www.youtube.com/watch?v=8cb-M87Wj70
-幕后玩家,https://www.youtube.com/watch?v=E2ldClQFAaI
-深海危机,https://www.youtube.com/watch?v=rwn_ZvOS6BQ
-猛龍(洪金宝),https://www.youtube.com/watch?v=zW_xwL_Q2Sc
-赌神1HD国语,https://www.youtube.com/watch?v=6ZPj4ZLNz5k
-赌神2HD国语,https://www.youtube.com/watch?v=tZ-TdoRqL4A
-驚天大賊王,https://www.youtube.com/watch?v=dgwSSQl5jUM
-
-
-
-Youtube历史,#genre#
-
-紀錄片NG17 4珍珠港國語版,https://www.youtube.com/watch?v=hF08j6osIig
-档案2009 库尔斯克号核潜艇沉没案,https://www.youtube.com/watch?v=AyPTflYZ2ck
-档案 青帮大亨杜月笙,https://www.youtube.com/watch?v=qGDhSc3Nsyk
-档案 金三角两大贩毒集团覆灭记,https://www.youtube.com/watch?v=JkD-8B55wdQ
-档案 诺曼底登陆,https://www.youtube.com/watch?v=vUSvKT0FD10
-档案 毒王的逃亡之路,https://www.youtube.com/watch?v=oTCUu9pOFFs
-档案 剑桥谍中谍,https://www.youtube.com/watch?v=CVjkO-wB5Ys
-档案 杰克逊死亡的背后,https://www.youtube.com/watch?v=Qd8uaoXVJyA
-档案 国宝运往台湾,https://www.youtube.com/watch?v=UtJMy6p1osY
-
-
-
-Youtube拉琴,#genre#
-
-李克勤 月半小夜曲,https://www.youtube.com/watch?v=bW3J7ufkerA
-石川綾子,https://www.youtube.com/watch?v=vvb4UHtX2GA
-Pachelbel's Canon,https://www.youtube.com/watch?v=Ptk_1Dc2iPY
-River Flows In You,https://www.youtube.com/watch?v=WSSIIC58Fsc
 
 韩国女团,#genre#
 
