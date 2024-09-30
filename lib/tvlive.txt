@@ -260,8 +260,8 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 整理测试,#genre#
 
 龙华戏剧1,https://gat.zhoujie218.top/litv/litv-longturn18
-ELEVEN体育1,http://116.93.98.236:8080/sat/tv731.flv
-ELEVEN体育2,http://116.93.98.236:8080/sat/tv741.flv
+ELEVEN体育1,http://116.93.98.236:8080/sat/tv731.flv#rtmp://116.93.98.236/sat/tv731
+ELEVEN体育2,http://116.93.98.236:8080/sat/tv741.flv#rtmp://116.93.98.236/sat/tv741
 
 
 韩国女团,#genre#
